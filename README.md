@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="600px" src="https://media-exp1.licdn.com/dms/image/C4E16AQGSAs1cxA6Yfg/profile-displaybackgroundimage-shrink_200_800/0/1608756436184?e=1618444800&v=beta&t=U2CoIQ3xYo7F2_3445SbV_oQkKtv3v3D4VpCwNDylh4">
+    <img width="600px" src="https://media-exp1.licdn.com/dms/image/C4E16AQGSAs1cxA6Yfg/profile-displaybackgroundimage-shrink_200_800/0/1608756436184?e=1650499200&v=beta&t=RSCTe56j1kmEqUdTPVuLQ4f4SeF7PRMece1L6VAxPA8">
 </p>
 
 ## < Hello Word /> 👋
